@@ -274,15 +274,6 @@ QT_CREATOR_SKIP_PACKAGE_MANAGER_SETUP:BOOL=OFF
 //No help, variable specified on the command line.
 QT_QMAKE_EXECUTABLE:FILEPATH=/usr/bin/qmake
 
-//Location of wxWidgets library configuration provider binary (wx-config).
-wxWidgets_CONFIG_EXECUTABLE:FILEPATH=/usr/bin/wx-config
-
-//Use debug build?
-wxWidgets_USE_DEBUG:BOOL=OFF
-
-//Location of wxWidgets resource file compiler binary (wxrc)
-wxWidgets_wxrc_EXECUTABLE:FILEPATH=/usr/bin/wxrc
-
 
 ########################
 # INTERNAL cache entries
@@ -449,8 +440,6 @@ CMAKE_TAPI-ADVANCED:INTERNAL=1
 CMAKE_UNAME:INTERNAL=/usr/bin/uname
 //ADVANCED property for variable: CMAKE_VERBOSE_MAKEFILE
 CMAKE_VERBOSE_MAKEFILE-ADVANCED:INTERNAL=1
-//Details about finding wxWidgets
-FIND_PACKAGE_MESSAGE_DETAILS_wxWidgets:INTERNAL=[-lwx_baseu_net-3.2;-lwx_gtk3u_core-3.2;-lwx_baseu-3.2][/usr/lib/wx/include/gtk3-unicode-3.2;/usr/include/wx-3.2][v3.2.6()]
 //linker supports push/pop state
 _CMAKE_CXX_LINKER_PUSHPOP_STATE_SUPPORTED:INTERNAL=TRUE
 //linker supports push/pop state
