@@ -1,0 +1,7 @@
+/home/alonso/QTprojects/LE-Converter/build/Desktop-Debug/CMakeFiles/LE-Converter.dir
+/home/alonso/QTprojects/LE-Converter/build/Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/alonso/QTprojects/LE-Converter/build/Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/alonso/QTprojects/LE-Converter/build/Desktop-Debug/CMakeFiles/list_install_components.dir
+/home/alonso/QTprojects/LE-Converter/build/Desktop-Debug/CMakeFiles/install.dir
+/home/alonso/QTprojects/LE-Converter/build/Desktop-Debug/CMakeFiles/install/local.dir
+/home/alonso/QTprojects/LE-Converter/build/Desktop-Debug/CMakeFiles/install/strip.dir
